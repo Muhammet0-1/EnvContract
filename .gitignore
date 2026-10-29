@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.env
+!examples/reference.env
+!examples/target.env
+!examples/target-fixed.env
